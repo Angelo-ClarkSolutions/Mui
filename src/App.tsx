@@ -3,6 +3,7 @@ import { Container } from "@mui/material";
 import "./App.css";
 import MuiRating from "./components/MuiRating";
 import MuiAutoComplete from "./components/MuiAutoComplete";
+import MUILayout from './components/MUILayout'
 // import MuiSwitch from "./components/MuiSwitch";
 // import MuiCheckBox from "./MuiCheckBox";
 // import MuiRadioButton from "./MuiRadioButton";
@@ -23,7 +24,8 @@ function App() {
         {/* <MuiCheckBox /> */}
         {/* <MuiSwitch /> */}
         {/* <MuiRating /> */}
-        <MuiAutoComplete />
+        {/* <MuiAutoComplete /> */}
+        <MUILayout />
       </Container>
     </div>
   );
