@@ -1,6 +1,9 @@
+body {
+  /* background-color: #eeeeee; */
+}
+
 .App {
-  padding-left: 10px;
-  padding-top: 10px;
+  padding: 4rem;
 }
 
 .App-logo {
